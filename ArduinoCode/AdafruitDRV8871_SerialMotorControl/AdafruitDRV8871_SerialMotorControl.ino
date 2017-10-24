@@ -39,13 +39,6 @@ if (Serial.available() > 0) { //If there is serial data
 
             // You can put some if and else here to process the message just like that:
 
-//            
-         //Ignore the 'C's being sent from Max to trigger Serial.available
-         if (inData.charAt(0) == 'C') { 
-                 inData = inData.substring(1);
-//                 Serial.print("New inData without C: ");
-//                 Serial.println(inData);
-         }
          
           // f for DC motor forward
            if(inData.charAt(0) == 'f') { //If the incoming message begins with an "f"
