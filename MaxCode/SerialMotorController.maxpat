@@ -4,7 +4,7 @@
 		"appversion" : 		{
 			"major" : 7,
 			"minor" : 3,
-			"revision" : 4,
+			"revision" : 5,
 			"architecture" : "x86",
 			"modernui" : 1
 		}
@@ -40,13 +40,13 @@
 				"box" : 				{
 					"fontname" : "Arial Bold",
 					"id" : "obj-25",
-					"linecount" : 5,
+					"linecount" : 3,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 390.0, 293.362305, 273.0, 74.0 ],
+					"patching_rect" : [ 390.0, 293.362305, 273.0, 47.0 ],
 					"style" : "",
-					"text" : "DC Motor and Solenoid Control Workshop\nTIMARA\n10/27/2017\nSteven Kemper, Ph.D.\nstevenTkemper@gmail.com"
+					"text" : "DC Motor and Solenoid Control Workshop\nSteven Kemper, Ph.D.\nstevenTkemper@gmail.com"
 				}
 
 			}
@@ -75,7 +75,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -107,7 +107,6 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
-						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-33",
@@ -723,7 +722,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -1098,7 +1097,7 @@
 					"allowdrag" : 0,
 					"fontsize" : 9.0,
 					"id" : "obj-31",
-					"items" : [ "Bluetooth-Incoming-Port", ",", "JBLFlip3-SPPDev", ",", "usbmodem1411" ],
+					"items" : [ "Bluetooth-Incoming-Port", ",", "JBLFlip3-SPPDev", ",", "usbmodem1421" ],
 					"maxclass" : "umenu",
 					"numinlets" : 1,
 					"numoutlets" : 3,
@@ -1148,7 +1147,7 @@
 						"appversion" : 						{
 							"major" : 7,
 							"minor" : 3,
-							"revision" : 4,
+							"revision" : 5,
 							"architecture" : "x86",
 							"modernui" : 1
 						}
@@ -2231,7 +2230,7 @@
 					"mode" : 1,
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 380.799988, 281.0, 297.200012, 96.0 ],
+					"patching_rect" : [ 380.799988, 281.0, 297.200012, 72.0 ],
 					"proportion" : 0.39,
 					"pt1" : [ 1.074257, 0.956522 ],
 					"pt2" : [ 1.133663, 0.017391 ],
