@@ -1,4 +1,4 @@
-// Oberlin DC Motor Control Workshop 10/27/2017
+// DC Motor Control Workshop Code
 // Steven Kemper, stevenTkemper@gmail.com
 // Control the Adafruit DRV8871 Breakout via Max MSP
 // Adapted from Arduino Serial Call/Response example code

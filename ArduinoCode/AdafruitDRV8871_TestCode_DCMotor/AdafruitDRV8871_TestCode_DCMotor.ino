@@ -1,4 +1,4 @@
-// Oberlin DC Motor Control Workshop 10/27/2017
+// DC Motor Control Workshop Code
 // Steven Kemper, stevenTkemper@gmail.com
 // Basic sketch for trying out the Adafruit DRV8871 Breakout
 // taken from https://learn.adafruit.com/adafruit-drv8871-brushed-dc-motor-driver-breakout/usage
